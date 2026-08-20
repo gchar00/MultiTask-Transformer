@@ -26,4 +26,4 @@ This project uses the publicly available **JIGSAWS** (JHU-ISI Gesture and Skill 
 
 ---
 
-**Updates coming soon!**
+**(Updates coming soon!)**
